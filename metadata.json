@@ -1,0 +1,5 @@
+{
+  "name": "Pre Arrival Talliez",
+  "description": "A tool to parse Book4Time XLSX exports and organize appointment data by specific operators.",
+  "requestFramePermissions": []
+}
